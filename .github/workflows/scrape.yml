@@ -1,0 +1,31 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '16,16,26,36,46,56 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-go@v1
+    - name: setup
+      run: |-
+        go get github.com/ericchiang/pup
+    - name: Fetch latest data
+      run: |-
+        curl -H https://yankes.kemkes.go.id/app/siranap/rumah_sakit\?jenis\=1\&propinsi\=31prop\&kabkota | pup '[data-string] json{}' | jq 'map([ walk(if type=="object" and has("children") then .tag as $n | .children |= map(.parent = $n) else . end) | .. | select(type=="object" and (has("text") or has("href"))) | if .text then .text else .href end])' > icu-covid-31prop.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+    
