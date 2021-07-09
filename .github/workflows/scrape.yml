@@ -19,7 +19,7 @@ jobs:
         go get github.com/ericchiang/pup
     - name: Fetch latest data
       run: |-
-        curl -s https://yankes.kemkes.go.id/app/siranap/rumah_sakit\?jenis\=1\&propinsi\=31prop\&kabkota | pup '[data-string] json{}' | jq 'map([ walk(if type=="object" and has("children") then .tag as $n | .children |= map(.parent = $n) else . end) | .. | select(type=="object" and (has("text") or has("href"))) | if .text then .text else .href end])' > icu-covid-31prop.json
+        curl -s https://yankes.kemkes.go.id/app/siranap/rumah_sakit\?jenis\=1\&propinsi\=31prop\&kabkota | ~/go/bin/pup '[data-string] json{}' | jq 'map([ walk(if type=="object" and has("children") then .tag as $n | .children |= map(.parent = $n) else . end) | .. | select(type=="object" and (has("text") or has("href"))) | if .text then .text else .href end])' > icu-covid-31prop.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
