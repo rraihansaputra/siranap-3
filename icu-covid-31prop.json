@@ -5,7 +5,7 @@
     "INFO IGD KHUSUS COVID",
     "Tersedia bed kosong IGD",
     "1",
-    "dengan antrian 2 pasien",
+    "dengan antrian 1 pasien",
     "diupdate kurang dari 1 menit yang lalu",
     "konfirmasi bed",
     "02122040055",
@@ -13,16 +13,16 @@
     "Bed Detail"
   ],
   [
-    "RS Jantung dan Pembuluh Darah Harapan Kita",
-    "Jl. S. Parman Kav 87, Slipi",
+    "RS Umum Yadika",
+    "Jl. Pahlawan Revolusi No.47 Pondok Bambu Jaktim",
     "INFO IGD KHUSUS COVID",
     "Tersedia bed kosong IGD",
-    "1",
-    "dengan antrian 12 pasien",
+    "3",
+    "tanpa antrian pasien.",
     "diupdate kurang dari 1 menit yang lalu",
     "konfirmasi bed",
-    "0215682424",
-    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3174282&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
+    "0218615754",
+    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3172590&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
     "Bed Detail"
   ],
   [
@@ -32,7 +32,7 @@
     "Tersedia bed kosong IGD",
     "3",
     "tanpa antrian pasien.",
-    "diupdate 1 menit yang lalu",
+    "diupdate kurang dari 1 menit yang lalu",
     "konfirmasi bed",
     "02143908923",
     "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3175416&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
@@ -65,42 +65,16 @@
     "Bed Detail"
   ],
   [
-    "RS Umum Yadika",
-    "Jl. Pahlawan Revolusi No.47 Pondok Bambu Jaktim",
-    "INFO IGD KHUSUS COVID",
-    "Tersedia bed kosong IGD",
-    "3",
-    "tanpa antrian pasien.",
-    "diupdate 23 menit yang lalu",
-    "konfirmasi bed",
-    "0218615754",
-    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3172590&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
-    "Bed Detail"
-  ],
-  [
     "RS Umum Daerah Cengkareng",
     "Jl.Kamal Raya Bumi Cengkareng Indah Cengkareng Timur",
     "INFO IGD KHUSUS COVID",
     "Tersedia bed kosong IGD",
     "9",
     "tanpa antrian pasien.",
-    "diupdate 3 jam yang lalu",
+    "diupdate 4 jam yang lalu",
     "konfirmasi bed",
     "02154372874",
     "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3174074&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
-    "Bed Detail"
-  ],
-  [
-    "RS Umum Daerah Pasar Minggu",
-    "JL. TB. SIMATUPANG NO. 1 KELURAHAN RAGUNAN, KECAMATAN PASAR MINGGU - JAKARTA SELATAN",
-    "INFO IGD KHUSUS COVID",
-    "Bed IGD Penuh!",
-    "tanpa antrian pasien.",
-    "diupdate 9 menit yang lalu",
-    "cek ketersediaan bed igd di waktu lain.",
-    "konfirmasi bed",
-    "087826861686",
-    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3171795&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
     "Bed Detail"
   ],
   [
@@ -117,6 +91,31 @@
     "Bed Detail"
   ],
   [
+    "RS Umum Daerah Pasar Minggu",
+    "JL. TB. SIMATUPANG NO. 1 KELURAHAN RAGUNAN, KECAMATAN PASAR MINGGU - JAKARTA SELATAN",
+    "INFO IGD KHUSUS COVID",
+    "Bed IGD Penuh!",
+    "tanpa antrian pasien.",
+    "diupdate 9 menit yang lalu",
+    "cek ketersediaan bed igd di waktu lain.",
+    "konfirmasi bed",
+    "087826861686",
+    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3171795&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
+    "Bed Detail"
+  ],
+  [
+    "RS Umum Daerah Taman Sari",
+    "Jalan Madu Rt/Rw 03/03 No.10 Mangga Besar Taman Sari Jakarta Barat 11180",
+    "INFO IGD KHUSUS COVID",
+    "Bed IGD Penuh!",
+    "tanpa antrian pasien.",
+    "diupdate 3 jam yang lalu",
+    "cek ketersediaan bed igd di waktu lain.",
+    "hotline tidak tersedia",
+    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3174525&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
+    "Bed Detail"
+  ],
+  [
     "RS Jiwa Duren Sawit",
     "Jl. Duren Sawit Baru Jakarta Timur",
     "INFO IGD KHUSUS COVID",
@@ -126,18 +125,6 @@
     "cek ketersediaan bed igd di waktu lain.",
     "hotline tidak tersedia",
     "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3172746&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
-    "Bed Detail"
-  ],
-  [
-    "RS Umum Daerah Taman Sari",
-    "Jalan Madu Rt/Rw 03/03 No.10 Mangga Besar Taman Sari Jakarta Barat 11180",
-    "INFO IGD KHUSUS COVID",
-    "Bed IGD Penuh!",
-    "tanpa antrian pasien.",
-    "diupdate 2 jam yang lalu",
-    "cek ketersediaan bed igd di waktu lain.",
-    "hotline tidak tersedia",
-    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3174525&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
     "Bed Detail"
   ],
   [
@@ -154,18 +141,6 @@
     "Bed Detail"
   ],
   [
-    "RS Umum Bhakti Mulia",
-    "Jl. KS Tubun No.79 Slipi Jakbar",
-    "INFO IGD KHUSUS COVID",
-    "Bed IGD Penuh!",
-    "tanpa antrian pasien.",
-    "diupdate 1 jam yang lalu",
-    "cek ketersediaan bed igd di waktu lain.",
-    "hotline tidak tersedia",
-    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3174030&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
-    "Bed Detail"
-  ],
-  [
     "RS Kanker Dharmais",
     "Jl. S Parman Kav.84-86 Slipi Jakarta Barat",
     "INFO IGD KHUSUS COVID",
@@ -176,6 +151,18 @@
     "konfirmasi bed",
     "081318238366",
     "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3174063&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
+    "Bed Detail"
+  ],
+  [
+    "RS Umum Bhakti Mulia",
+    "Jl. KS Tubun No.79 Slipi Jakbar",
+    "INFO IGD KHUSUS COVID",
+    "Bed IGD Penuh!",
+    "tanpa antrian pasien.",
+    "diupdate 2 jam yang lalu",
+    "cek ketersediaan bed igd di waktu lain.",
+    "hotline tidak tersedia",
+    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3174030&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
     "Bed Detail"
   ],
   [
@@ -197,7 +184,7 @@
     "INFO IGD KHUSUS COVID",
     "Bed IGD Penuh!",
     "dengan antrian 3 pasien",
-    "diupdate 3 jam yang lalu",
+    "diupdate 4 jam yang lalu",
     "cek ketersediaan bed igd di waktu lain.",
     "konfirmasi bed",
     "08118462766",
@@ -222,7 +209,7 @@
     "INFO IGD KHUSUS COVID",
     "Bed IGD Penuh!",
     "dengan antrian 8 pasien",
-    "diupdate 3 jam yang lalu",
+    "diupdate 4 jam yang lalu",
     "cek ketersediaan bed igd di waktu lain.",
     "konfirmasi bed",
     "089699999796",
@@ -235,10 +222,23 @@
     "INFO IGD KHUSUS COVID",
     "Bed IGD Penuh!",
     "dengan antrian 10 pasien",
-    "diupdate 3 jam yang lalu",
+    "diupdate 4 jam yang lalu",
     "cek ketersediaan bed igd di waktu lain.",
     "hotline tidak tersedia",
     "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3174508&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
+    "Bed Detail"
+  ],
+  [
+    "RS Jantung dan Pembuluh Darah Harapan Kita",
+    "Jl. S. Parman Kav 87, Slipi",
+    "INFO IGD KHUSUS COVID",
+    "Bed IGD Penuh!",
+    "dengan antrian 11 pasien",
+    "diupdate kurang dari 1 menit yang lalu",
+    "cek ketersediaan bed igd di waktu lain.",
+    "konfirmasi bed",
+    "0215682424",
+    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3174282&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
     "Bed Detail"
   ],
   [
@@ -247,24 +247,11 @@
     "INFO IGD KHUSUS COVID",
     "Bed IGD Penuh!",
     "dengan antrian 13 pasien",
-    "diupdate 3 menit yang lalu",
+    "diupdate 2 menit yang lalu",
     "cek ketersediaan bed igd di waktu lain.",
     "konfirmasi bed",
     "02138997777",
     "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3173062&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
-    "Bed Detail"
-  ],
-  [
-    "RS Umum Daerah Koja",
-    "Jl. Deli No.4 Tanjung Priok,Jakut",
-    "INFO IGD KHUSUS COVID",
-    "Bed IGD Penuh!",
-    "dengan antrian 24 pasien",
-    "diupdate 3 jam yang lalu",
-    "cek ketersediaan bed igd di waktu lain.",
-    "konfirmasi bed",
-    "02143938478",
-    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3175016&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
     "Bed Detail"
   ],
   [
@@ -278,6 +265,19 @@
     "konfirmasi bed",
     "02129462345",
     "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3172757&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
+    "Bed Detail"
+  ],
+  [
+    "RS Umum Daerah Koja",
+    "Jl. Deli No.4 Tanjung Priok,Jakut",
+    "INFO IGD KHUSUS COVID",
+    "Bed IGD Penuh!",
+    "dengan antrian 24 pasien",
+    "diupdate 4 jam yang lalu",
+    "cek ketersediaan bed igd di waktu lain.",
+    "konfirmasi bed",
+    "02143938478",
+    "https://yankes.kemkes.go.id/app/siranap/tempat_tidur?kode_rs=3175016&amp;jenis=1&amp;propinsi=31prop&amp;kabkota=",
     "Bed Detail"
   ]
 ]
